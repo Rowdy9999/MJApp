@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#FF0D0D0D</color>
+    <color name="bg_card">#FF1A1A2E</color>
+    <color name="bg_user_bubble">#FF16213E</color>
+    <color name="bg_mj_bubble">#FF0F3460</color>
+    <color name="accent">#FFE94560</color>
+    <color name="accent_dim">#80E94560</color>
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+    <color name="text_hint">#66FFFFFF</color>
+    <color name="mic_glow">#FFE94560</color>
+</resources>

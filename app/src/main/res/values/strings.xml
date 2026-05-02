@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MJ</string>
+    <string name="hint_speak">Tap mic to speak…</string>
+    <string name="listening">Listening…</string>
+    <string name="thinking">MJ is thinking…</string>
+    <string name="error_api">Couldn\'t reach MJ. Check your connection.</string>
+    <string name="error_parse">MJ got confused. Try again.</string>
+    <string name="error_permission">Microphone permission needed for voice input.</string>
+</resources>
